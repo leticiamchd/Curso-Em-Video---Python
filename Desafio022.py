@@ -1,0 +1,6 @@
+nome = input('Qual o seu nome todo? ')
+print(nome.upper())
+print(nome.lower())
+print(len(nome.strip()))
+dividido = nome.split()
+print(len(dividido[0]))
