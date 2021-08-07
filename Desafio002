@@ -1,0 +1,5 @@
+nome = input ('Qual o seu Nome ? ')
+idade = input ('Qual a sua idade ? ')
+discord = input ('Qual seu id no discord ? ')
+
+print ('Seu nome é', nome,', você tem', idade, ' anos de idade, e seu usuário no discord é',discord)
